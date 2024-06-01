@@ -1,5 +1,8 @@
 *               text=auto
 
+# Ensure all text files use LF line endings
+* text eol=lf
+
 # plain text files
 *.md            text
 *.txt           text
